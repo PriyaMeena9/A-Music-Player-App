@@ -7,7 +7,6 @@ A front-end  project of the  Music player. The project was created using the cre
 - [Motivation](#motivation)
 - [Tech/Framework Used](#techframework-used)
 - [Installation](#installation)
-- [Architechture](#architecture)
 
 ## Description
 A clone web application using the create-react-app. The app comsumes data from the Spotify API.
@@ -22,6 +21,7 @@ The majority of the react components and logic was written from scratch by mysel
 ## Tech/Framework Used
 * React (create-react-app CLI)
 * Materail UPI
+* Node.js
 
 ## Installation
 This project requires [node](http://nodejs.org) and [npm](https://npmjs.com) installed globally. 
@@ -41,5 +41,3 @@ To start up the app locally
 ```sh
 $ npm start
 ```
-
-Additionally, this project also requires you to clone and run the server code from this [repo](https://github.com/JL978/spotify-clone-server) to work properly.
