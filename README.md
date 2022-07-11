@@ -1,6 +1,6 @@
 # A-Music-Player-App
 
-A front-end  project of the  Music player. The project was created using the create-react-app CLI. The app is meant to work in conjunction with an authorization/authenication server found at this [repo](https://github.com/JL978/spotify-clone-server).
+A front-end  project of the  Music player. The project was created using the create-react-app CLI. 
 
 ## Table of Contents
 - [Description](#description)
